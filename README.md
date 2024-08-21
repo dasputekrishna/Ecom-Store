@@ -1,4 +1,4 @@
-Ecom Store
+Ecom Store project
 Ecom Store is a secure and robust e-commerce platform designed to provide seamless shopping experiences
 for both administrators and customers. It offers a comprehensive set of features for managing products, 
 setting prices and discounts, as well as ensuring a smooth checkout process with multiple payment options
